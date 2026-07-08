@@ -93,3 +93,9 @@ Potential next steps include:
 
 Alexander Dieguez  
 Senior Data Scientist | ASU Software Engineering Student  
+
+## License
+
+The source code in this repository is licensed under the MIT License.
+
+The case study PDF, screenshots, diagrams, social preview image, and written portfolio materials are included for documentation and presentation purposes. Unless otherwise noted, those materials are copyright © 2026 Alexander Dieguez. All rights reserved.

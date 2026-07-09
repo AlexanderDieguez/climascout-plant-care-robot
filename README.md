@@ -3,7 +3,8 @@
 **C++ / Arduino / TinkerCAD case study in embedded control and system design**
 
 [Watch the demo video](https://youtu.be/Bi4Xr8lojTI?si=b0L05zyDcNVWRJw2)  
-[Read the full case study](docs/ClimaScout_Case_Study.pdf)  
+[Read the full case study](docs/ClimaScout_Case_Study.md)  
+[Download the case study PDF](https://github.com/AlexanderDieguez/climascout-plant-care-robot/raw/main/docs/ClimaScout_Case_Study.pdf)  
 [View the source code](src/ClimaScoutDemo.cpp)
 
 **TinkerCAD Model:** https://www.tinkercad.com/things/dRa2NMstG8A-climascout-demo-circuit?sharecode=uOe76doGtOn7KKV7tkWh-lnIEIuWcupUZv_uBQUpYQM
@@ -11,6 +12,8 @@
 ## Overview
 
 ClimaScout is a simulated autonomous plant-care robot prototype designed to monitor and regulate indoor plant microclimates. The system models how a mobile robot could patrol predefined plant stations, identify each station, climb to canopy height, sample local environmental conditions, and trigger corrective misting or ventilation logic when temperature or humidity moves outside target ranges.
+
+![Model Design](assets/screenshots/climascout-component-view.png)
 
 ## Project Scope
 
